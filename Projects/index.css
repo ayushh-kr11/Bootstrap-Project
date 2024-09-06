@@ -1,0 +1,44 @@
+body {
+  background-color: #f2f2f2;
+  color: #333;
+}
+.navbar {
+  background-color: #34495e;
+}
+.navbar-brand, .navbar-nav .nav-link {
+  color: #ecf0f1;
+}
+.navbar-brand:hover, .navbar-nav .nav-link:hover {
+  color: #bdc3c7;
+}
+.form-container {
+  margin-top: 50px;
+}
+.card-container {
+  margin-top: 50px;
+}
+.footer {
+  background-color: #34495e;
+  color: #ecf0f1;
+  padding: 20px 0;
+  text-align: center;
+  margin-top: 50px;
+}
+.social-media a {
+  margin: 0 10px;
+  color: #ecf0f1;
+  text-decoration: none;
+}
+.social-media a:hover {
+  color: #2ecc71;
+}
+.testimonials {
+  margin-top: 50px;
+}
+.subscribe-section {
+  background-color: #2ecc71;
+  color: white;
+  padding: 40px 0;
+  text-align: center;
+  margin-top: 50px;
+}
